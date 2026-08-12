@@ -1,4 +1,4 @@
-## Table 1 — Compulsory (Blind 75)
+# Blind 75 — Compulsory Patterns
 
 | Pattern | Question Number |
 |---|---|
@@ -29,29 +29,3 @@
 | Math | 371 |
 | Matrix | 48, 54, 73 |
 | Design | 155, 208, 211, 295 |
-
-## Table 2 — Others (Extra / NC150 / Advanced)
-
-| Pattern | Question Number |
-|---|---|
-| Prefix Sum | 560, 303, 525 |
-| Queue | 232, 933, 622 |
-| Monotonic Queue | 239, 862, 1438 |
-| Fast & Slow Pointer | 287, 202 |
-| Trees (BFS) | 199, 637 |
-| Heap / Priority Queue | 703 |
-| Graph DFS | 695 |
-| Graph BFS | 994, 1091 |
-| Topological Sort | 210, 802 |
-| Union Find (DSU) | 684, 323, 261 |
-| GCD / LCM | 1979, 914, 1071 |
-| Strings | 3, 5, 20 |
-| Segment Tree | 307, 315, 218 |
-| Fenwick Tree (BIT) | 307, 315, 1649 |
-| KMP | 28, 214, 459 |
-| Rolling Hash | 187, 1044, 1392 |
-| Dijkstra | 743, 1631, 1514 |
-| MST (Prim's/Kruskal's) | 1584, 1135, 1168 |
-| Bellman-Ford | 787, 1928, 1129 |
-| Floyd-Warshall | 1334, 1462, 1548 |
-| Tarjan / SCC | 1192, 1568, 1489 |
