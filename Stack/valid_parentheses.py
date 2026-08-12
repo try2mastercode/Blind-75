@@ -1,9 +1,9 @@
 class Solution(object):
     def isValid(self, s):
-        dic = {'}': '{', ')': '(', ']': '['}
+        dic = {'}': '{', ')': '(', ']': '[', '>': '<'}
         stack = []
         for i in s:
-            if i == '{' or i == '(' or i == '[':
+            if i == '{' or i == '(' or i == '[' or i == '<':
                 stack.append(i)
             else:
                 if stack and stack[-1] == dic[i]:

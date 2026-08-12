@@ -1,3 +1,6 @@
+"""LeetCode 53 - Maximum Subarray (Kadane's algorithm).
+Given an array of integers, find the maximum sum of any contiguous subarray.
+"""
 class Solution(object):
     def maxSubArray(self, nums):
         curr_sum = nums[0]

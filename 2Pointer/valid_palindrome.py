@@ -1,3 +1,7 @@
+"""LeetCode 125 - Valid Palindrome.
+Return True if the string is a palindrome, considering only alphanumeric
+characters and ignoring case.
+"""
 class Solution(object):
     def isPalindrome(self, s):
         left = 0
